@@ -9,7 +9,7 @@ Creating a Key in Ripe is a simple process. First, login to [Ripe](https://app.r
 ![Add a key in Ripe](../img/cak-1.png "Add a key in Ripe")
 
 {: .warning }
-Ensure that you confirm the expected visibility type (Private|Public) before creating the key. Once you've created the key, it must be deleted to change visibility!
+Ensure that you confirm the expected visibility type (Private/Public) before creating the key. Once you've created the key, it must be deleted to change visibility!
 
 {: .note }
 Once a key is created, it exists in any environment within the project, with the default value determined by the value type chosen. Anything set in this dialog can be changed, except for the **Key's name** and the **Value Type**
