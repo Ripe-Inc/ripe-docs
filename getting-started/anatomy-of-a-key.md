@@ -36,10 +36,8 @@ Integer|`0`
 Decimal|`0`
 JSON|`{}`
 
-{: .important-title }
-> Important
->
-> This assumes the key you're requesting exists in the project you're requesting against. Any key that does not exist when making the request will return null.
+{: .important }
+This assumes the key you're requesting exists in the project you're requesting against. Any key that does not exist when making the request will return null.
 
 ## Key Visibility
 When creating and editing a key its important to remember the visibility of the key. A key can be either `Public` or `Private`, and this visibility cannot be changed later without deleting the key. 

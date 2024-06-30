@@ -23,7 +23,5 @@ Next Steps:
 * [Managing your Project](Managing%20your%20project)
 * [Managing your Environment](Managing%20your%20environment)
 
-{: .new-title }
-> Tip
->
-> You can create a free account at [https://app.ripecloud.io](https://app.ripecloud.io) which will always remain free to use. 
+{: .new }
+You can create a free account at [https://app.ripecloud.io](https://app.ripecloud.io) which will always remain free to use. 

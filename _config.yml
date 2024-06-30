@@ -3,3 +3,17 @@ description: A centralized repository for Ripe Documentation
 theme: just-the-docs
 
 url: https://ripe.foundation
+
+callouts:
+  warning:
+    title: Warning
+    color: yellow
+  note:
+    title: Note
+    color: purple
+  information:
+    title: Information
+    color: blue
+  new:
+    title: Tip
+    color: green
