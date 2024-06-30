@@ -1,3 +1,7 @@
+---
+title: Anatomy of a Key
+layout: home
+---
 # Anatomy of a Key
 
 Keys are what makes Ripe work. A Key has several properties that we're going to go over now.

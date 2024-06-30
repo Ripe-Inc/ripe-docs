@@ -1,4 +1,4 @@
 # Ripe Foundation
 This is the central source for the various bits of documentation for Ripe
 
-[Quick Start](/Getting%20Started/Quickstart)
+[Quick Start](/getting-started/quickstart)

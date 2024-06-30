@@ -1,3 +1,7 @@
+---
+title: Managing Your Team
+layout: home
+---
 # Managing Your Team
 
 You can manage your team in Ripe if your role access is either `Owner` or `Administrator`. The following roles can be assigned to users in your team through the `Settings -> Manage Team` menu:

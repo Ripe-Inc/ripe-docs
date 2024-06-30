@@ -1,3 +1,7 @@
+---
+title: Quickstart
+layout: home
+---
 # Quickstart
 
 Welcome to Ripe! Ripe is a platform for unifying configuration of your applications across different environments, enabling your team to accurately manage and maintain 

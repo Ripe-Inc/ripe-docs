@@ -1,3 +1,7 @@
+---
+title: Creating a Key
+layout: home
+---
 # Creating a Key
 
 Creating a Key in Ripe is a simple process. First, login to [Ripe](https://app.ripecloud.io). Once you're logged in and have selected the correct environment, press the `+` button to the left of the section you're adding the key to:

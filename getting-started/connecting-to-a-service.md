@@ -1,3 +1,7 @@
+---
+title: Connecting to the Ripe Service
+layout: home
+---
 ## Connecting to the Ripe Service
 
 Connecting to Ripe is easier than ever! You can keep an eye on our [SDK's](https://github.com/Ripe-Inc/ripe-sdks) to see if we support your language, if not, then you can connect with a simple HTTP request

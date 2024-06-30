@@ -1,3 +1,7 @@
+---
+title: Joining an existing team
+layout: home
+---
 # Joining an existing team
 
 Joing a team in Ripe requires an owner or administrator of the team to initialize the invitation.

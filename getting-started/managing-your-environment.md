@@ -1,3 +1,7 @@
+---
+title: Managing Your Environment
+layout: home
+---
 # Managing Your Environment
 
 An environment has several properties you can use to customize your team's experience.

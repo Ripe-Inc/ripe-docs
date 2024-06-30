@@ -1,3 +1,7 @@
+---
+title: Managing Your Project
+layout: home
+---
 # Managing Your Project
 
 There are a few properties in a project that you can define
