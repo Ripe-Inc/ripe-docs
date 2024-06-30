@@ -1,6 +1,7 @@
 ---
 title: Joining an existing team
 layout: home
+parent: Quickstart
 ---
 # Joining an existing team
 

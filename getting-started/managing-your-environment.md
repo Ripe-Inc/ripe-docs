@@ -1,6 +1,7 @@
 ---
 title: Managing Your Environment
 layout: home
+parent: Quickstart
 ---
 # Managing Your Environment
 
@@ -18,6 +19,7 @@ Restrict Network Access|This property enables a dialog allowing you to define ip
 ## Rotating Keys
 Keys can be rotated at whatever frequency you desire, buy pressing the `R` button to the right of a key. It is considered best practice to rotate keys regularly.
 
-> [!WARNING]
+{: .warning-title }
+> Warning
 >
 > Rotating a key that is currently in use will immediately start returning 403 Forbidden from the service endpoint

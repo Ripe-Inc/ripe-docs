@@ -1,6 +1,7 @@
 ---
 title: Anatomy of a Key
 layout: home
+parent: Quickstart
 ---
 # Anatomy of a Key
 
@@ -35,8 +36,9 @@ Integer|`0`
 Decimal|`0`
 JSON|`{}`
 
-> [!IMPORTANT]
-> 
+{: .important-title }
+> Important
+>
 > This assumes the key you're requesting exists in the project you're requesting against. Any key that does not exist when making the request will return null.
 
 ## Key Visibility

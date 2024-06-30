@@ -1,6 +1,7 @@
 ---
 title: Connecting to the Ripe Service
 layout: home
+parent: Quickstart
 ---
 ## Connecting to the Ripe Service
 

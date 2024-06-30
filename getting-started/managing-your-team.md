@@ -1,6 +1,7 @@
 ---
 title: Managing Your Team
 layout: home
+parent: Quickstart
 ---
 # Managing Your Team
 
