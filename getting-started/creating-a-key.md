@@ -18,7 +18,7 @@ Once a key is created, it exists in any environment within the project, with the
 From here you must set the name for the key. The key can be nested, either by selecting the 'Section' tab and creating a new section, or you can use dot notation in your name, such as `My.Key`.
 
 {: .note }
-Key name is only allowed characters `a-Z` and `.`. Key names must be fully unique regardless of casing, and a key cannot exist where a section exists.
+Key name is only allowed characters `a-Z`, `0-9`, `.`, `-` and `_`. Key names must be fully unique regardless of casing, and a key cannot exist where a section exists.
 
 You can also set some optional information as part of Key creation. You can set a description, which is used for adding context as to what the key is for. **Tags** can be used to help with organizing your keys.
 
