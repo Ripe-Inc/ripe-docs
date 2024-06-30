@@ -17,3 +17,6 @@ callouts:
   new:
     title: Tip
     color: green
+
+logo: "img/full_200w.png"
+favicon_ico: "img/favicon.ico"
