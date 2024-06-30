@@ -11,10 +11,10 @@ configuration values across the software development lifecycle.
 
 Let's get you started:
 
-1) **Create a login**: You can [join an existing team](joining-existing-team), or [create your own](https://app.ripecloud.io)
-2) **Create your first Key**: You can follow our in-app quickstart, or if you'd prefer to explore on your own you can read [Creating a Key](creating-a-key)
-3) **Install the Ripe SDK in your application**: Adding Ripe to your application is easy with [one of our SDK's](https://github.com/Ripe-Inc/ripe-sdks), or you can make a [connection manually with an HTTP request](connecting-to-a-service).
-4) **That's it!**: Watch as your application pulls configuration from Ripe
+1. **Create a login**: You can [join an existing team](joining-existing-team), or [create your own](https://app.ripecloud.io)
+1. **Create your first Key**: You can follow our in-app quickstart, or if you'd prefer to explore on your own you can read [Creating a Key](creating-a-key)
+1. **Install the Ripe SDK in your application**: Adding Ripe to your application is easy with [one of our SDK's](https://github.com/Ripe-Inc/ripe-sdks), or you can make a [connection manually with an HTTP request](connecting-to-a-service).
+1. **That's it!**: Watch as your application pulls configuration from Ripe
 
 Next Steps:
 
