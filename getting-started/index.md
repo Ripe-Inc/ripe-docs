@@ -18,10 +18,10 @@ Let's get you started:
 
 Next Steps:
 
-* [Anatomy of a Key](anatomy-of-a-key)
-* [Managing your Team](managing-your-team)
-* [Managing your Project](managing-your-project)
-* [Managing your Environment](managing-your-environment)
+* [Anatomy of a Key](../anatomy-of-a-key)
+* [Managing your Team](../teams/index)
+* [Managing your Project](../projects/index)
+* [Managing your Environment](../environments/index)
 
 {: .new }
 You can create a free account at [https://app.ripecloud.io](https://app.ripecloud.io) which will always remain free to use. 

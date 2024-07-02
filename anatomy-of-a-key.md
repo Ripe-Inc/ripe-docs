@@ -1,7 +1,7 @@
 ---
 title: Anatomy of a Key
 layout: home
-parent: Quickstart
+nav_order: 9
 ---
 # Anatomy of a Key
 
