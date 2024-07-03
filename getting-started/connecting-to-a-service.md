@@ -10,7 +10,9 @@ Connecting to Ripe is easier than ever! You can keep an eye on our [SDK's](https
 Regardless of your connection preferences, you'll need your environment information. 
 
 Navigate to the [Ripe App](https://app.ripecloud.io) and click on the gear next to your chosen environment for the environment settings dialog to appear
+
 ![Manage environment dialog](../img/connecting-1.png "Manage environment dialog")
+
 From here you can get all the information to connect to an environment. You'll need the **Endpoint** value and one of the **Private Keys** values to connect.
 
 ### Connecting with an HTTP Request
@@ -22,13 +24,15 @@ From here you can get all the information to connect to an environment. You'll n
 
 ```json
 {
-    "version": "1.0.0", //Your application version
-	"schema": [ //The keys you'd like Ripe to respond with values for
-        "TestBoolDefault",
-        "Section1.TestDecimal",
-        "Section1.TestString",
-        "Section2.TestIntDefault",
-        "Section2.TestDecimalDefault"
+    //Your application version
+    "version": "1.0.0", 
+    //The keys you'd like Ripe to respond with values for
+	"schema": [ 
+            "TestBoolDefault",
+            "Section1.TestDecimal",
+            "Section1.TestString",
+            "Section2.TestIntDefault",
+            "Section2.TestDecimalDefault"
 	]
 }
 ```

@@ -6,6 +6,7 @@ parent: Quickstart
 # Creating a Key
 
 Creating a Key in Ripe is a simple process. First, login to [Ripe](https://app.ripecloud.io). Once you're logged in and have selected the correct environment, press the `+` button to the left of the section you're adding the key to:
+
 ![Add a key in Ripe](../img/cak-1.png "Add a key in Ripe")
 
 {: .warning }
@@ -15,6 +16,7 @@ Ensure that you confirm the expected visibility type (Private/Public) before cre
 Once a key is created, it exists in any environment within the project, with the default value determined by the value type chosen. Anything set in this dialog can be changed, except for the **Key's name** and the **Value Type**
 
 ![Configure the key](../img/cak-2.png "Configure the key")
+
 From here you must set the name for the key. The key can be nested, either by selecting the 'Section' tab and creating a new section, or you can use dot notation in your name, such as `My.Key`.
 
 {: .note }

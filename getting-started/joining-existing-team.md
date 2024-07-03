@@ -21,6 +21,9 @@ email invitation. Clicking on the button in the invitation email will bring you 
 Alternatively, when creating a team there is an option to enter the invite code sent in the invitation email:
 
 ![Ripe welcome page](../img/gs-join-team-user-1.png "Ripe welcome page")
+
 From the welcome page, click on 'Join Team'
+
 ![Ripe join team](../img/gs-join-team-user-2.png "Ripe join team")
+
 You can enter the invitation code here and press 'Accept Invite'
